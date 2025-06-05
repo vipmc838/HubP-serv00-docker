@@ -5,6 +5,9 @@ HubP 是一款基于 Go 开发的超轻量级 Docker 镜像加速工具。它能
 - **群聊**：[HeroCore](https://t.me/HeroCore)
 - **频道**：[HeroMsg](https://t.me/HeroMsg)
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+
 ## 快速开始
 
 ### 下载安装
